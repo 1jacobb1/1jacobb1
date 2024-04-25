@@ -8,9 +8,6 @@
 ## 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/jacob-earl-p-9b06a8b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## ⚡ Fun fact:
-* My name is Jacob but my nickname is Paulo, I know its not funny 😞.
-
 ## 📊 Github stat:
 
 ![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=1jacobb1&show_icons=true&theme=dracula&hide_border=true&show_icons=true&count_private=true&line_height=27)
