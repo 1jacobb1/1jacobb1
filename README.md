@@ -3,7 +3,7 @@
 ## 🧑🏽‍💻 About me.
 * I'm an iOS Developer specializing in Swift.
 * I worked as Web Developer (Front-end and Back-end Developer) (PHP).
-* Living in Cebu, Philippines. We have few beaches here 🏖.
+* Currently living in Cebu, Philippines.
 
 ## 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/jacob-earl-p-9b06a8b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
