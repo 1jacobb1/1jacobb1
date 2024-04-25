@@ -7,7 +7,6 @@
 
 ## 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/jacob-earl-p-9b06a8b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-* Instagram: <a href="https://www.instagram.com/_brauliozz/" target="_blank">@_brauliozz</a>
 
 ## ⚡ Fun fact:
 * My name is Jacob but my nickname is Paulo, I know its not funny 😞.
